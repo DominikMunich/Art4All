@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="UTF-8">
+	<title>Art4All</title>
+	<meta name="description" content="Die Kunstsammlung einer Wolfsburgerin wird verkauft">
+	<meta name="keywords" content="Wolfsburg, Vorsfelde, Kunst, Verkauf, Exponate, DIY">  
+</head>
+
+<body>
+  <header>
+  Kopfbereich
+  </header>
+
+  <main>
+    <a href="mailto:mailtodominik@mail.de">
+    Persönliche Beratung per Mail gewünscht?
+    </a>
+    
+    <p>
+      Seit Mai 2021 können die selbstgemachten (DIY) Exponate von Carina Berger, ansässig in Wolfsburg, gekauft werden.
+    </p>
+      <p>
+      Die gesamte Kunst kann unter Einhaltung von geltenden Hygienebedingungen in Vorsfelde angesehen und dort käuflich erworben werden. 
+      </p>
+        <p>
+        Der Schwerpunkt der Kunst liegt hierbei auf martimen Aquarellen sowie auf abwechslungsreichen und hellen Farben. 
+        </p>
+  <ul>
+    <li>
+      Erstes unsortiertes Listenelement
+    </li>
+      <li>
+        Erstes unsortiertes Unterlistenelement
+        </li>
+    <li>
+      Zweites unsortiertes Listenelement
+    </li>
+  </ul>
+  <ol>
+    <li>
+      <a href=".......">Erstes sortiertes Listenelement mit Verlinkung</a>
+    </li>
+      <li>
+        Erstes sortiertes Unterlistenelement
+      </li>
+  </ol>
+    <h1>
+    Ich bin die erste Überschrift
+    </h1>
+    
+        <h2>
+        Ich bin die zweite Überschrift
+        </h2>   
+        
+         <h3>
+            Ich bin die dritte Überschrift
+            </h3>  
+              
+              <h4>
+                Ich bin die vierte Überschrift
+                </h4>    
+                
+                  <h5>
+                    Ich bin die fünfte Überschrift
+                    </h5>    
+                    
+                      <h6>
+                        Ich bin die sechste und kleinstmögliche Überschrift
+                        </h6>
+    <picture>
+    <source srcset="id3_bei_nacht.jpeg" media="(min-width: 600px)">
+    <source srcset="id3_bei_nacht.jpeg" media="(min-width: 800px)">
+    <source srcset="id3_bei_nacht.jpeg" media="(min-width: 1000px)">
+    <source srcset="id3_bei_nacht.jpeg" media="(min-width: 1200px)">
+    <ing src="id3_bei_nacht.jpeg" alt="Werbebild">
+    </picture>
+
+    <form action="#"formprocessor.html"method="get">
+      <fieldset>
+        <legend>Formulartitle</legend>
+        <p>Name:<input type#"text" name#"Namw"/></p<
+        <p>Straße:<input type#"text" name#"Adress"/></p<
+        <p>Stadt:<input type#"text" name#"City"/></p<
+        <p>PLZ:<input type#"text" name#"State"/></p<
+      </fieldset>
+    <form action="#"formprocessor.html"method="get">
+      <fieldset>
+        <legend>Ggf. abweichender Rechnungsempfänger</legend>
+        <p>Name:<input type#"text" name#"Namw"/></p<
+        <p>Straße:<input type#"text" name#"Adress"/></p<
+        <p>Stadt:<input type#"text" name#"City"/></p<
+        <p>PLZ:<input type#"text" name#"State"/></p<
+      </fieldset>
+    </form>
+
+    <form action="#" method="post">
+      <label for="benutzername">
+        Benutzername
+      </label>
+      
+      <<input type="text" name="Benutzername" id="Benutzername"  value="" placeholder="Benutzername">
+
+      <label for="password">
+        Passwort
+      </label>
+      
+      <<input type="password" name="Passwort" id="Passwort" value="" placeholder="Passwort">
+
+      <<button type="submit"
+        Login
+      </button>
+    </form>
+
+  </main>
+  
+  <footer>
+    &#169; 2021 Dominik Bog
+  </footer>
+  
+</body>
+</html># Your snippets
