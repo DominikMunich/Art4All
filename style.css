@@ -1,0 +1,12 @@
+body{
+    background: blue;
+    color: white;
+    font-size: 20pt
+}
+
+p {
+    color: navy
+}
+p:hover {
+    background-color: white
+}
