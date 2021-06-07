@@ -1,16 +1,33 @@
 body {
     color: rgb(27, 27, 146)
+    background-color: rgba(135, 206, 250);
 }
 header {
     color: rgb(33, 21, 207)
+    background-color: rgba(135, 206, 250);
 }
 main {
-    color:rgb(158, 119, 71)
+    color:rgb(158, 119, 71);
+    background-color: rgba(135, 206, 250);
 }
 h3 {
-    color: rgb(27, 27, 146)
+    color: rgb(219, 125, 96);
 }
 span {
     color: rgb(47, 13, 170)
 }
-
+p > span {
+    color: rgb(27, 27, 146)
+}
+p > b {
+    color: rgb(27, 27, 146)
+}
+span > b {
+    color: rgb(27, 27, 146)
+}
+html > body > p > span >i {
+    color: rgb(27, 27, 146)
+}
+p span.warnung {
+    background-color: pink;
+}
